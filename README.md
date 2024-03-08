@@ -1,4 +1,5 @@
 ## Oie, eu sou a Sara 🔮
+*ʜÁ ᴜᴍ ᴘᴏᴜᴄᴏ ᴅᴇ ᴄᴀᴅᴀ ᴀʀᴛɪꜱᴛᴀ ᴇᴍ ꜱᴇᴜ ᴛʀᴀʙᴀʟʜᴏ. — ʙʟᴀᴅᴇ ʀᴜɴɴᴇʀ*
 <div>
   <a href="https://github.com/Sayorita">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayorita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
