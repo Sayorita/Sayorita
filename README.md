@@ -20,4 +20,4 @@
   <a href="https://www.linkedin.com/in/sara-fernandes-17aabb262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
 
-![Snake animation](//raw.githubusercontent.com/Sayorita/Sayorita/output/github-contribution-grid-snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sayorita/Sayorita/output/github-contribution-grid-snake.svg">
